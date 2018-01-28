@@ -1,1 +1,28 @@
-theme: jekyll-theme-slate
+title: Maxiye's Blog
+description: My Personal Blog
+author: Maxiye
+logo: /hcz-jekyll-blog/static/img/avatar.png
+github: https://github.com/maxiye
+about: look me
+
+baseurl: "https://maxiye.github.io"
+url: "https://maxiye.github.io"
+
+allowsearch: true
+
+disqus_shortname: aboutashu
+# google_analytics: UA-72862926-1
+
+share:
+  twitter_username: \#
+  fb_appid: 000000000000
+
+
+enableTags: true
+tagarray: []
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [jekyll-paginate, jekyll-gist]
